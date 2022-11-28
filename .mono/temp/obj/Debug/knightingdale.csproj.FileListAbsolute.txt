@@ -1,0 +1,8 @@
+/home/john_mc_clane/development/knightingdale/.mono/temp/obj/Debug/knightingdale.csproj.AssemblyReference.cache
+/home/john_mc_clane/development/knightingdale/.mono/temp/obj/Debug/knightingdale.AssemblyInfoInputs.cache
+/home/john_mc_clane/development/knightingdale/.mono/temp/obj/Debug/knightingdale.AssemblyInfo.cs
+/home/john_mc_clane/development/knightingdale/.mono/temp/obj/Debug/knightingdale.csproj.CoreCompileInputs.cache
+/home/john_mc_clane/development/knightingdale/.mono/temp/bin/Debug/knightingdale.dll
+/home/john_mc_clane/development/knightingdale/.mono/temp/bin/Debug/knightingdale.pdb
+/home/john_mc_clane/development/knightingdale/.mono/temp/obj/Debug/knightingdale.dll
+/home/john_mc_clane/development/knightingdale/.mono/temp/obj/Debug/knightingdale.pdb
